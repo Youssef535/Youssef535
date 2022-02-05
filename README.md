@@ -1,11 +1,15 @@
-### Hi there 👋, my name is Youssef 
+# Hi there 👋, my name is Youssef 
 #### Development
 ![Development](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
 
 I'm Youssef From Italy, and i do content on Development, i really enjoy 
 learning languages and frameworks like React, React Native. I also enjoy wireframing UI UX and design in general .
 
-Skills:  REACT / JS / HTML / CSS / Bootstrap
+##Skills and Experience 
+*
+
+
+REACT / JS / HTML / CSS / Bootstrap
 
 - 🔭 I’m currently working on Javascript  
 - 🌱 I’m currently learning javascript 
