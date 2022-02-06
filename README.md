@@ -5,8 +5,8 @@
 I'm Youssef From Italy, and i do content on Development, i really enjoy 
 learning languages and frameworks like React, React Native. I also enjoy wireframing UI UX and design in general .
 
-##Skills and Experience 
-*
+## Skills and Experience 
+
 
 
 REACT / JS / HTML / CSS / Bootstrap
