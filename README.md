@@ -27,6 +27,24 @@ learning languages and frameworks like React, React Native. I also enjoy wirefra
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Youssef )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/YoussefSoltani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/YoussefSoltani)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef )](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.github.com/Youssef53" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Youssef53?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Youssef53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Youssef53"><img src="https://github-readme-stats.vercel.app/api?username=Youssef53&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Youssef53's GitHub stats" /></a>
+
+<a href="http://www.github.com/Youssef53"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef53&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Youssef53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef53&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ![Profile views](https://gpvc.arturio.dev/Youssef )  
