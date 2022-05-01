@@ -30,10 +30,9 @@ learning languages and frameworks like React, React Native. I also enjoy wirefra
 <a href="https://www.github.com/Youssef53" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Youssef53?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/Youssef53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-### Badges
+
+
 
 <b>My GitHub Stats</b>
 
