@@ -27,8 +27,6 @@ learning languages and frameworks like React, React Native. I also enjoy wirefra
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Youssef )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/YoussefSoltani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/YoussefSoltani)  
 
-<a href="https://www.github.com/Youssef53" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Youssef53?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 <a href="https://www.github.com/Youssef535" target="_blank" rel="noreferrer"><img
