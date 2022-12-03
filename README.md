@@ -20,7 +20,7 @@ learning languages and frameworks like React, React Native. I also enjoy wirefra
 
 
 - 🔭 I’m currently working on Reactjs Projects  
-- 🌱 I’m currently learning Reactjs and python 
+- 🌱 I’m currently learning Reactjs and TypeScript 
 - 👯 I’m looking to collaborate on  with other content creators 
 - 📫 How to reach me: youssefsoltani53@yahoo.com 
 
