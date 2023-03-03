@@ -22,7 +22,7 @@ learning languages and frameworks like React, Nextjs. I also enjoy wireframing U
 
 
 - 🔭 I’m currently working on Reactjs Projects  
-- 🌱 I’m currently learning Reactjs and TypeScript 
+- 🌱 I’m currently learning Reactjs and TypeScript, Nextjs13 
 - 👯 I’m looking to collaborate on  with other content creators 
 - 📫 How to reach me: youssefsoltani53@yahoo.com 
 
