@@ -21,11 +21,11 @@ learning languages and frameworks like React, Nextjs. I also enjoy wireframing U
 </p>
 
 
-- 🔭 I’m currently working on Reactjs Projects  
+- 🔭 I’m currently working on React Icons 
 - 🌱 I’m currently learning Reactjs and TypeScript, Nextjs13 
 - 👯 I’m looking to collaborate on  with other content creators 
 - 📫 How to reach me: youssefsoltani53@yahoo.com 
-- React icons Contributer
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Youssef )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/YoussefSoltani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/YoussefSoltani)  
