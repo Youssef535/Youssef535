@@ -18,6 +18,7 @@ learning languages and frameworks like React, Nextjs. I also enjoy wireframing U
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="reactjs" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="46" height="46" alt="typescript" /></a>
    <a href="https://www.nodejslang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="46" height="46" alt="nodejs" /></a>
+  <a href="https://https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="46" height="46" alt="vuejs" /></a>
 </p>
 
 
