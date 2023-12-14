@@ -21,9 +21,9 @@ learning languages and frameworks like React, Nextjs. I also enjoy wireframing U
 </p>
 
 
-- 🔭 I’m currently working on React Icons 
-- 🌱 I’m currently learning Reactjs and TypeScript, Nextjs13 
-- 👯 I’m looking to collaborate on  with other content creators 
+- 🔭 I’m currently working on Float UI 
+- 🌱 I’m currently learning Reactjs and TypeScript, Vuejs, Nuxt
+- 👯 I’m looking to collaborate on  with other Developers 
 - 📫 How to reach me: youssefsoltani53@yahoo.com 
 
 
