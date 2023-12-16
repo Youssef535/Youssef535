@@ -2,8 +2,8 @@
 #### Web Development
 ![Development](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
 
-I'm Youssef From Italy, and i do content on Development, i really enjoy 
-learning languages and frameworks like React, Nextjs. I also enjoy wireframing UI UX and design in general .
+I'm Youssef From Italy, and i do content on Development, i enjoy 
+learning languages and frameworks like React, Nextjs, Vuejs and more. I also enjoy wireframing UI UX and design in general .
 
 ## Skills and Experience 
 
